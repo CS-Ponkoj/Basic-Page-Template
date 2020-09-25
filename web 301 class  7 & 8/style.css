@@ -1,0 +1,56 @@
+body{
+	margin:0;
+	padding:0;
+	background:gray;
+	font-family: 'Mina', sans-serif;
+	background-image:url("img/kk.png");
+}
+
+.logo{
+	width:30%;
+	float:left;
+}
+.logo img{
+	width:100px;
+}
+.menu{
+	width:70%;
+	overflow:hidden;
+}
+
+.menu nav ul li{
+	
+	display:inline;
+	margin-right:20px;
+}
+.menu nav ul li a{
+	text-decoration:none;
+	font-size:30px;
+	color:#000;
+	font-weight:700;
+	border: 2px solid red;
+}
+
+.menu nav ul li:hover a{
+	color:#fff;
+	background:green;
+    font-size:35px;
+    border: 2px solid #f1c40f;
+
+}
+
+
+	
+}
+.one{
+	width:50%;
+	float:left; 
+    overflow:hidden; 
+}
+
+
+
+
+
+
+

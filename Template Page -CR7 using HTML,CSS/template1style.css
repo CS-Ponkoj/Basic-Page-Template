@@ -1,0 +1,157 @@
+ body{
+	margin:2;
+	padding:2;
+	
+    font-family: 'Acme', sans-serif;
+	color:black;
+}
+ .logo{
+
+	width:12%;
+	float:left;
+	
+    
+	
+	
+	
+}
+ .logo img{
+ 
+    width:70px;
+    margin-left:10px;
+	margin-top:10px;
+ 
+
+ }
+ .menu{
+	
+	width:32%;
+	background-color:#f1f2f6;
+	float:right;
+
+	
+	
+}
+ .menu nav ul li{
+	display:inline;
+	margin-right:25px;
+	float:right;
+
+	margin-bottom:13px;
+	
+}
+.menu nav ul li a{
+	
+	text-decoration:none;
+	 font-size:22px;
+	color:#2f3542;
+	 font-family: 'Merriweather', serif;
+}
+.menu nav ul li:hover a{
+	
+	background-color:#ced6e0;
+	
+}
+ 
+.photo{
+	width:30%;
+	float:left;
+	overflow:hidden;
+	
+	margin-left:45px;
+	
+	
+	
+}	
+
+ 
+	 	 
+
+	
+	.photo img{
+	 width:350px;
+	 height:650px;
+	 
+     
+	
+ }
+ 
+ 
+ .table{
+	 
+	width:100%;
+	 border-collapse:collapse;
+
+ }
+ 
+
+ .table table{
+	 font-size:25px;
+	margin-left:27%;
+	margin-bottom:10%;
+	
+ }
+
+ .table table th{
+      font-size: 33px;
+      padding:15px;
+	  color:#2980b9;
+ }
+  .table table tr,td{
+ 
+      padding:15px;
+	  
+  }
+  .table table tr,td,th{
+	  
+	  border: 1px solid #dddddd;
+  }
+  .table table tr:nth-child(even){
+	  background-color:#778ca3;
+ }
+
+  
+  
+  
+ 
+	.l{
+		font-size:60px;
+	margin-left:45%;
+	margin-right:45%;
+	
+		color:#c0392b;
+		
+	}
+	.p{
+		padding:100px;
+		font-family: 'Philosopher', sans-serif;
+		font-size:22px;
+		
+		
+		
+	}
+.table2{
+width:100%;
+    
+
+}
+.table2 table{
+	
+	 font-size:25px;
+	margin-left:15%;
+	margin-right:15%;
+	margin-bottom:10%;
+	font-family: 'Merriweather', serif;
+	
+	
+}
+.table2 table tr:nth-child(even){
+	  background-color:#bdc3c7;
+}
+
+.table2 table tr:nth-child(odd){
+	background-color:#f7f1e3;
+}
+	
+
+
